@@ -1,3 +1,3 @@
 ## VisualJJ Test
 
-Hello world
+Hello world from VisualJJ.
